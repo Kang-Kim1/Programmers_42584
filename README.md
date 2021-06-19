@@ -1,5 +1,5 @@
 # Programmers_42584
-## 프로그래머스_주식가격(#42584)
+## 프로그래머스 - 주식가격(https://programmers.co.kr/learn/courses/30/lessons/42584#)
 
 프로그래머스 큐/스택 연습문제.  
 Input으로 주어지는 Price를 객체화하여 index정보를 함께 입력하였다.  
